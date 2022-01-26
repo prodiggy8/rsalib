@@ -6,9 +6,9 @@
 
 ### Using as a library:
 
-Keys_t k
-genkeys(&keys)
-encodeStream(keys, "filename")
-decodeStream(keys, "filename")
+Keys_t k <br>
+genkeys(&keys) <br>
+encodeStream(keys, "filename") <br>
+decodeStream(keys, "filename") <br>
 
 
