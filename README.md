@@ -1,10 +1,10 @@
-RSA encoding/decoding implementation
+## RSA encoding/decoding implementation
 
-Command line usage:
+### Command line usage:
 
 ./rsa -h
 
-Using as library:
+### Using as a library:
 
 Keys_t k
 genkeys(&keys)
